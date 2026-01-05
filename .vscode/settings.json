@@ -1,0 +1,23 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+
+    // ============================================
+    // C/C++ CODE FORMATTING / C/C++ KOD FORMATLAMA
+    // ============================================
+    // EN: Allman style - Opening brace on new line
+    // TR: Allman stili - Açılış parantezi yeni satırda
+
+    // "C_Cpp.formatting": "clangFormat",
+    // "C_Cpp.clang_format_style": "{ BasedOnStyle: LLVM, BreakBeforeBraces: Allman, IndentWidth: 2, UseTab: Never }",
+
+    // // EN: Format on save (optional)
+    // // TR: Kaydettiğinde formatla (opsiyonel)
+    // "[cpp]": {
+    //     "editor.formatOnSave": true,
+    //     "editor.defaultFormatter": "ms-vscode.cpptools"
+    // },
+    // "[c]": {
+    //     "editor.formatOnSave": true,
+    //     "editor.defaultFormatter": "ms-vscode.cpptools"
+    // }
+}
